@@ -1,4 +1,7 @@
 Demonstration of basic concepts and principles
+- Modularization
+- Architecture: ViewModel -> UseCase -> Repository + Logic + Calculator
+- Performance
 
 # My ideals
 - Copying is better that coupling
