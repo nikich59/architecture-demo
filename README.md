@@ -8,8 +8,11 @@ Demonstration of basic concepts and principles
 - Performance
 - Unit tests
 - Code generation from specs. One-of included
-- MVVM with single state val and all-Flow data management 
-- Project: Catalog, Menu, Cart and Checkout screens
+- MVVM with single state val and all-Flow data management
+- Animations: both inside screens and between screens
+- Blur
+- Nested scroll for AppBarLayout on menu 
+- Project: Address, Catalog, Menu, Cart, Checkout, Order Tracking. Address is used on different screens. Cart is shown on catalog
 
 # My ideals
 - Copying is better that coupling. Do not reuse data models, copy-paste them
