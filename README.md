@@ -13,7 +13,7 @@ Demonstration of basic concepts and principles
 
 # My ideals
 - Copying is better that coupling. Do not reuse data models, copy-paste them
-- Great backend contracts enable great architecture. Bad contract forbids great architecture. As front-end developers, we must insist that our contracts:
+- Great backend contracts enable great architecture. Bad contract forbids great architecture. As front-end developers, out professional duty is to insist that our contracts:
   - Describe what _must_ be done, not what _can_ be done
   - Are as close to plain English description of the contents of the screen as possible
   - Use polymorphic models instead of one-size-fits-all models with dozens of optional fields
