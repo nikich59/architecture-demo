@@ -13,6 +13,7 @@ Demonstration of basic concepts and principles
 - Not having `None` state in your `sealed` class coupled with _nullable_ value is better that having _non-null_ `sealed`
   class value with `None` state. This way it is easy to differenciate between use-cases when there might not be any value
   and when there is always some value
+- How many `value` classes do I want? Yes
 
 # What I personally can't stand
 - Many programmers must have come from economics background because they _save_. Saving symbols and lines of code
