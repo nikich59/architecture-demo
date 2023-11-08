@@ -1,5 +1,6 @@
 Demonstration of basic concepts and principles
 - Modularization
+- Dependency Injection
 - Architecture: ViewModel -> UseCase -> Repository + Logic + Calculator
 - Performance
 
