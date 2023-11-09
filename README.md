@@ -13,7 +13,7 @@ Demonstration of basic concepts and principles
 - MVVM with single state val and all-Flow data management
 - Animations: both inside screens and between screens
 - Typed recycler view
-- Blur
+- Blur (Library and custom NDK)
 - Nested scroll for AppBarLayout on menu
 - Image loading
 - Snap helper
