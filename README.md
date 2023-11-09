@@ -2,6 +2,7 @@ Todo: add code samples
 
 Demonstration of basic concepts and principles
 - Modularization: Plugins & ModuleApi & ModuleDependencies. App module is very low on code
+- Explicit public modifier
 - Scoped Tasks
 - Dependency Injection
 - Architecture: ViewModel -> UseCase -> Repository + Logic + Calculator
