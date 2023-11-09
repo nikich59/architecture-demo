@@ -1,18 +1,21 @@
 Todo: add code samples
 
 Demonstration of basic concepts and principles
-- Modularization: Plugins & ModuleApi & ModuleDependencies
+- Modularization: Plugins & ModuleApi & ModuleDependencies. App module is very low on code
 - Scoped Tasks
 - Dependency Injection
 - Architecture: ViewModel -> UseCase -> Repository + Logic + Calculator
+- Layout Builder
 - Performance
 - Unit tests
 - Code generation from specs. One-of included
 - MVVM with single state val and all-Flow data management
 - Animations: both inside screens and between screens
 - Blur
-- Nested scroll for AppBarLayout on menu 
-- Project: Address, Catalog, Menu, Cart, Checkout, Order Tracking. Address is used on different screens. Cart is shown on catalog
+- Nested scroll for AppBarLayout on menu
+- Image loading
+- Snap helper
+- Project: Address, Catalog&Search&Paging, Menu&Search, Cart, Checkout, Order Tracking. Address is used on different screens. Cart is shown on catalog. EntryPoint based on /catalog response 
 
 # My ideals
 - Copying is better that coupling. Do not reuse data models, copy-paste them
