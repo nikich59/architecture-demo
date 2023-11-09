@@ -12,6 +12,7 @@ Demonstration of basic concepts and principles
 - Code generation from specs. One-of included
 - MVVM with single state val and all-Flow data management
 - Animations: both inside screens and between screens
+- Typed recycler view
 - Blur
 - Nested scroll for AppBarLayout on menu
 - Image loading
