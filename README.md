@@ -11,7 +11,9 @@ Demonstration of basic concepts and principles
 - Unit tests
 - Code generation from specs. One-of included
 - MVVM with single state val and all-Flow data management
-- Animations: both inside screens and between screens
+- Animations on screens
+- Animations between screens (transitions)
+- Layout animations in ViewGroups
 - Typed recycler view
 - Blur (Library and custom NDK)
 - Nested scroll for AppBarLayout on menu
