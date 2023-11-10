@@ -16,7 +16,8 @@ Demonstration of basic concepts and principles
 - Layout animations in ViewGroups
 - Typed recycler view
 - Blur (Library and custom NDK)
-- Nested scroll for AppBarLayout on menu
+- AppBarLayout on menu
+- Nested scroll in custom Parent and Child
 - Image loading
 - Snap helper
 - Configuration change when only Views are recreated
