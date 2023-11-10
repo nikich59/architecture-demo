@@ -17,6 +17,7 @@ Demonstration of basic concepts and principles
 - Nested scroll for AppBarLayout on menu
 - Image loading
 - Snap helper
+- Configuration change when only Views are recreated
 - Library module plugin
 - Detekt with custom rules
 - Project: Address, Catalog&Search&Paging, Menu&Search, Cart, Checkout, Order Tracking. Address is used on different screens. Cart is shown on catalog. EntryPoint based on /catalog response 
