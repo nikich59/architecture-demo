@@ -15,6 +15,7 @@ Demonstration of basic concepts and principles
 - Animations between screens (transitions)
 - Layout animations in ViewGroups
 - Transient views
+- Learn RecyclerView internal logic
 - Typed recycler view
 - Blur (Library and custom NDK)
 - AppBarLayout on menu
