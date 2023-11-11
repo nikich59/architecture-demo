@@ -22,6 +22,7 @@ Demonstration of basic concepts and principles
 - Nested scroll in custom Parent and Child
 - Image loading
 - Snap helper
+- Custom LayoutManager for looped list
 - Configuration change when only Views are recreated
 - Library module plugin
 - Detekt with custom rules
