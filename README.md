@@ -20,6 +20,7 @@ Demonstration of basic concepts and principles
 - Blur (Library and custom NDK)
 - AppBarLayout on menu
 - Nested scroll in custom Parent and Child
+- RecyclerView overscroll with translation for refresh. Gain inspiraation from RefreshSwipeLayout
 - Image loading
 - Snap helper
 - Custom LayoutManager for looped list
