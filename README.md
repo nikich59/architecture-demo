@@ -18,6 +18,7 @@ Demonstration of basic concepts and principles
 - Learn RecyclerView internal logic
 - Typed recycler view
 - Blur (Library and custom NDK)
+- Dialogs with blurred background
 - AppBarLayout on menu
 - Nested scroll in custom Parent and Child
 - RecyclerView overscroll with translation for refresh. Gain inspiraation from RefreshSwipeLayout
