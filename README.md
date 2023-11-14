@@ -11,7 +11,7 @@ Demonstration of basic concepts and principles
 - Performance
 - Unit tests
 - Code generation from specs. One-of included
-- MVVM with single state val and all-Flow data management
+- MVI
 - Animations on screens
 - Animations between screens (transitions)
 - Layout animations in ViewGroups
