@@ -31,6 +31,8 @@ Demonstration of basic concepts and principles
 - Gradle build stages
 - Codegen at project evaluation 
 - Detekt with custom rules
+- Proguard & R8
+- Kibana dashboard
 - Project: Address, Catalog&Search&Paging, Menu&Search, Cart, Checkout, Order Tracking. Address is used on different screens. Cart is shown on catalog. EntryPoint based on /catalog response 
 
 # My ideals
