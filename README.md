@@ -12,6 +12,7 @@ Demonstration of basic concepts and principles
 - Unit tests
 - Code generation from specs. One-of included
 - MVI
+- Collapsed&Expanded with MVI reducer
 - Animations on screens
 - Animations between screens (transitions)
 - Layout animations in ViewGroups
